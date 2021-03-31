@@ -403,6 +403,7 @@ body {
   display: grid;
   grid-template-columns: 60% 40%;
   grid-template-rows:50% 50%;
+  margin-top:160px;
 
 }
 .sectionEight button{
@@ -449,8 +450,4 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 .sectionEightDesc button:hover{
   color: #111;
   background-color: #818181;
-}
-.sectionNine{
-  height: 160px;
-  background-color: #ffffff;
 }
