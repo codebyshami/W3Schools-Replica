@@ -403,7 +403,7 @@ body {
   display: grid;
   grid-template-columns: 60% 40%;
   grid-template-rows:50% 50%;
-  margin-bottom:160px;
+  margin-bottom: 160px;
 
 }
 .sectionEight button{
